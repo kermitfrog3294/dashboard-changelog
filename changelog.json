@@ -2,11 +2,6 @@
   {
     "date": "2025-11-18",
     "title": "Live Changelog Added",
-    "description": "The dashboard now fetches updates from GitHub."
-  },
-  {
-    "date": "2025-11-17",
-    "title": "Welcome Message Removed",
-    "description": "The old welcome message was completely removed."
+    "description": "The dashboard now fetches updates Live."
   }
 ]
