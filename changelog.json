@@ -1,7 +1,12 @@
 [
   {
+    "date": "2025-11-19",
+    "title": "Custom Update 1",
+    "description": "This is my custom message for the dashboard."
+  },
+  {
     "date": "2025-11-18",
-    "title": "Live Changelog Added",
-    "description": "The dashboard now fetches updates Live."
+    "title": "Custom Update 2",
+    "description": "Another custom message I want displayed."
   }
 ]
